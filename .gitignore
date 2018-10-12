@@ -48,3 +48,7 @@
 *.swn
 *.swo
 param/
+*.weights
+darknet/ImageNet
+darknet_lowp/ImageNet
+darknet_quantize_gpu/ImageNet
