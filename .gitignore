@@ -44,4 +44,7 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+*.swp
+*.swn
+*.swo
 param/
